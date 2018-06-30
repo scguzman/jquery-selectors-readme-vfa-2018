@@ -8,13 +8,11 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  id selector ninja baby image
+ $('#baby-ninja') 
 }
 
 function divSelector() {
-  <div> 
   $('.pics')
-  </div>
 }
 
 function firstListItem() {
