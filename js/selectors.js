@@ -13,6 +13,7 @@ function ninjaBabySelector() {
 
 function divSelector() {
   div pics
+  $('.pics')
 }
 
 function firstListItem() {
