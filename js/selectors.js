@@ -12,8 +12,9 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  div pics
+  <div> 
   $('.pics')
+  </div>
 }
 
 function firstListItem() {
